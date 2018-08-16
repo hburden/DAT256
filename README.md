@@ -37,7 +37,7 @@ Since a substantial part of the work is conducted in teams, please consider the 
 ## Student Representatives
 
 | Program | E-mail | Name | 
-|         |        | TBD  |
+|  TBD    | TBD    | TBD  |
 
 ## Course Literature 
 Agile:
