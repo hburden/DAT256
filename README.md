@@ -7,6 +7,8 @@ The course consists of two phases. The first phase consists of two weeks and is 
 
 The majority of the course work is done in project teams. The topic this time is Android apps within the automotive domain. The case will be introduced during the second week of the course.
 
+DAT256 Software Engineering project is the continuation of the course [DAT255 Software Engineering Project](https://github.com/hburden/DAT255).
+
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
 - Knowledge and understanding, the student should be able to:
