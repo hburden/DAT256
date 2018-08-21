@@ -77,7 +77,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 02     | Sep 10 *10:00-11:45* | Svea226    | [Project Introduction][L5] | 
 |        | Sep 11 *10:00-11:45* | Svea219    |    |
 |        | Sep 12 *10:00-11:45* | Gamma      | [MVP Exercise][L7] |
-| 03-07  | *10:00-11:45*| Lindholmen | Supervision |  
+| 03-07  | *10:00-11:45*| Lindholmen Open Arena | Supervision |  
 | 08     | TBD | TBD | Final presentation |
 | 09     | Nov 02 *17:00*       |            | Sign Off | 
 
