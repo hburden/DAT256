@@ -73,9 +73,9 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 01     | Sep 03 *08:00-09:45* | Gamma      | [Software Engineering][L1] | 
 |        | Sep 03 *10:00-11:45* | Gamma      | [Kata][L2p] & [Template][L2t] | 
 |        | Sep 04 *08:00-11:45* | Jupiter122 | [Lego Exercise][L3] | 
-|        | Sep 05 *10:00-11:45* | Svea219    | [Software Engineering cnt.][L4] | 
-| 02     | Sep 10 *10:00-11:45* | Svea226    | [Project Introduction][L5] | 
-|        | Sep 11 *10:00-11:45* | Svea219    |    |
+|        | Sep 05 *10:00-11:45* | Svea219    | Software Engineering cnt. | 
+| 02     | Sep 10 *10:00-11:45* | Svea226    | Project Introduction | 
+|        | Sep 11 *10:00-11:45* | Svea219    | Android AUTO  |
 |        | Sep 12 *10:00-11:45* | Gamma      | [MVP Exercise][L7] |
 | 03-07  | *10:00-11:45*| Lindholmen Open Arena | Supervision |  
 | 08     | TBD | TBD | Final presentation |
