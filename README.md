@@ -79,7 +79,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |        | Sep 12 *10:00-11:45* | Gamma      | [MVP Exercise][L7] |
 | 03     | Sep 17 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
 | 04     | Sep 24 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
-|        | Sep 25 *10:00-11:45* |  | Guest Lecture | 
+|        | Sep 25 *10:00-11:45* | Svea118    | Guest Lecture | 
 | 05     | Oct 01 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
 | 06     | Oct 08 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
 | 07     | Oct 15 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
