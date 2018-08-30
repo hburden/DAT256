@@ -12,17 +12,17 @@ DAT256 Software Engineering project is the continuation of the course [DAT255 So
 ## Learning outcomes
 In this course you will learn how to design and develop software, and to manage projects:
 - Knowledge and understanding, the student should be able to:
-	- describe software engineering uses appropriate terminology
-	- describe the relationship between stakeholders, process and product
-
+	- describe software engineering as an engineering discipline by using relevant terminology
+	- describe the relationship between stakeholder, product, and process
+	
 - Skills and abilities, the student should be able to:
-	- specify, implement and evaluate
-	- learn how to use project-relevant tools and APIs together with their peers
-	- apply a structured development process as part of a team
+	- specify, implement, and evaluate a system based on what different stakeholders perceive as valuable
+	- learn tools and APIs which are relevant for the project in collaboration with the other team members
+	- apply a structured software development process as a member of a team
 
 - Judgement and approach, the student should be able to:
-  	- reflect over how the development process was applied in the project
-	- reflect over both the own and the team's learning strategies
+  	- reflect on how the process was applied in a project
+	- reflect on the own and the team's learning strategies
 
 Since a substantial part of the work is conducted in teams, please consider the [Chalmers rules regarding your work conditions][CRS]. If you encounter problems, contact a course teacher immediately!
 
