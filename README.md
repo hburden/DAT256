@@ -55,10 +55,10 @@ Git:
 - [GitHub Student Developer Pack](https://education.github.com/pack)
 - Interactive Git learning: [Learn Git Branching][LearnGitBranching]
 
-Vision:
+<!--Vision:
 - The Scrum Alliance view on [visions][pv1] 
 - Jim Highsmith's view on product [visions][pv2]
-<!--Business Model Canvas:
+Business Model Canvas:
 - A short [YouTube film](https://youtu.be/QoAOzMTLP5s)
 - Wikipedia is a good [starting point](https://en.wikipedia.org/wiki/Business_Model_Canvas)-->
 
