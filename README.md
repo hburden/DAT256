@@ -75,7 +75,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |        | Sep 04 *08:00-11:45* | Jupiter122 | [Lego Exercise][L3] | 
 |        | Sep 05 *10:00-11:45* | Svea219    | Software Engineering cnt. | 
 | 02     | Sep 10 *10:00-11:45* | Svea226    | Project Introduction | 
-|        | Sep 11 *10:00-11:45* | Svea219    | Android AUTO  |
+|        | Sep 11 *10:00-11:45* | Svea219    | Android CAR  |
 |        | Sep 12 *10:00-11:45* | Gamma      | [MVP Exercise][L7] |
 | 03     | Sep 17 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
 | 04     | Sep 24 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
