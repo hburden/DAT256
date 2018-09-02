@@ -156,7 +156,7 @@ For instance, if the team has been awarded a grade for the course and there is a
 
 We strive for a transparent and fair assessment strategy. [That is why we as teachers are the ones that do the grading based on our experience][fairgrades].
 
-[timeedit]: https://se.timeedit.net/web/chalmers/db1/public/ri157XQQ709Z50Qv17003gZ6y6Y7006Q5Y61Y5.html
+[timeedit]: https://cloud.timeedit.net/chalmers/web/public/ri10734Q057Z04Q505663740yZ065W7343Y67Q0Q3.html
 [GITBOOK]: http://git-scm.com/book
 [gitvid]: http://git-scm.com/videos
 [gitbranch]: http://nvie.com/posts/a-successful-git-branching-model/
