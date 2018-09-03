@@ -40,7 +40,13 @@ Since a substantial part of the work is conducted in teams, please consider the 
 
 | Program | E-mail | Name | 
 | ------  | ------ | ------ | 
-|  TBD    | TBD    | TBD  |
+| TIDAL   | anddahlq@student.chalmers.se   | Andreas Dahlqvist |
+| TIDAL   | hojmark@student.chalmers.se    |André Höjmark |
+| TIDAL   | davolofs@student.chalmers.se   | David Olofsson |
+| TIDAL   | jesskog@student.chalmers.se    |Jesper Skoglund |
+| TIDAL   | weanton@student.chalmers.se    | Anton Wester |
+
+Redan nu vill jag påminna om att kursnämnden denna kurs är schemalagd i TimeEdit och hålls fredagen den 7/12 kl 15.00. 
 
 ## Course Literature 
 Agile:
