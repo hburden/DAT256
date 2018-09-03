@@ -46,7 +46,7 @@ Since a substantial part of the work is conducted in teams, please consider the 
 | TIDAL   | jesskog@student.chalmers.se    |Jesper Skoglund |
 | TIDAL   | weanton@student.chalmers.se    | Anton Wester |
 
-Redan nu vill jag påminna om att kursnämnden denna kurs är schemalagd i TimeEdit och hålls fredagen den 7/12 kl 15.00. 
+The course evaluation meeting will take place Dec 07 at kl 15.00. Place to be announce later by e-mail.
 
 ## Course Literature 
 Agile:
