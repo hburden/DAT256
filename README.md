@@ -125,7 +125,7 @@ As a team you should reflect on the following topics:
 - the three KPIs you use for monitoring your progress and how you use them
 
 *Social Contract and Effort*
-- your social contract, i.e., the rules that define how you work together as a team (this means, of course, you should create one in the first week)
+- your [social contract][socialcontract], i.e., the rules that define how you work together as a team (this means, of course, you should create one in the first week)
 - the time you have spent on the course (so keep track of your hours so you can describe the current situation)
 
 *Design decisions and product structure*
