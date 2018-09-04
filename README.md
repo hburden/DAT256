@@ -171,7 +171,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [FindBugs]: http://findbugs.sourceforge.net/
 [GitInspector]: https://github.com/ejwa/gitinspector
 [PeerAssessment]: https://goo.gl/forms/3xPs53HGpCUtIa3S2
-[socialcontract]: http://www.agileacademy.com.au/agile/sites/default/files/Social%20Contract%202011.pdf
+[socialcontract]: http://agileforeveryone.com/2013/08/12/how-to-make-a-social-contract-and-build-better-teams/
 [L1]: https://github.com/hburden/DAT256/blob/master/Slides/L1-Intro.pdf?raw=true
 [L2p]: https://github.com/hburden/DAT256/blob/master/Slides/L2-Kata.pdf?raw=true
 [L2t]: https://github.com/hburden/DAT256/blob/master/Extras/KataTest.pptx?raw=true
