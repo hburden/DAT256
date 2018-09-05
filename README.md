@@ -1,4 +1,4 @@
-# Course PM for DAT256 Software Engineering Project 7.5 HEC, Autumn 2018
+﻿# Course PM for DAT256 Software Engineering Project 7.5 HEC, Autumn 2018
 
 ## News
 
@@ -76,16 +76,16 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 
 | Wk     | Date & Time          | Room       | Topic  | 
 | ------ | ------	        | ------     | ------ |  
-| 01     | Sep 03 *08:00-09:45* | Gamma      | [Software Engineering][L1] | 
-|        | Sep 03 *10:00-11:45* | Gamma      | [Kata][L2p] & [Template][L2t] | 
-|        | Sep 04 *08:00-11:45* | Jupiter122 | [Lego Exercise][L3] | 
-|        | Sep 05 *10:00-11:45* | Svea219    | Software Engineering cnt. | 
-| 02     | Sep 10 *10:00-11:45* | Svea226    | Project Introduction | 
-|        | Sep 11 *10:00-11:45* | Svea219    | Android CAR  |
-|        | Sep 12 *10:00-11:45* | Gamma      | [MVP Exercise][L7] |
+| 01     | Sep 03 *08:15-10:00* | Gamma      | [Software Engineering][L1] | 
+|        | Sep 03 *10:15-12:00* | Gamma      | [Kata][L2p] & [Template][L2t] | 
+|        | Sep 04 *08:15-12:00* | Jupiter122 | [Lego Exercise][L3] | 
+|        | Sep 05 *10:15-12:00* | Svea219    | [Software Engineering cnt.][L4] | 
+| 02     | Sep 10 *10:15-12:00* | Svea226    | Project Introduction | 
+|        | Sep 11 *10:15-12:00* | Svea219    | Android CAR  |
+|        | Sep 12 *10:15-12:00* | Gamma      | [MVP Exercise][L7] |
 | 03     | Sep 17 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
 | 04     | Sep 24 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
-|        | Sep 25 *10:00-11:45* | Svea118    | Guest Lecture | 
+|        | Sep 25 *10:15-12:00* | Svea118    | Guest Lecture | 
 | 05     | Oct 01 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
 | 06     | Oct 08 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
 | 07     | Oct 15 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
@@ -176,7 +176,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L2p]: https://github.com/hburden/DAT256/blob/master/Slides/L2-Kata.pdf?raw=true
 [L2t]: https://github.com/hburden/DAT256/blob/master/Extras/KataTest.pptx?raw=true
 [L3]: https://github.com/hburden/DAT255/blob/master/Slides/L3-Lego.pdf?raw=true
-[L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Scrum.pdf?raw=true
+[L4]: https://github.com/hburden/DAT255/blob/master/Slides/L4-Conc.pdf?raw=true
 [L5]: https://github.com/hburden/DAT255/blob/master/Slides/L5-SoftwareQuality.pdf?raw=true
 [L6]: https://github.com/hburden/DAT255/blob/master/Slides/L6-Project.pdf?raw=true
 [L7]: https://github.com/hburden/DAT255/blob/master/Slides/L7-MVP.pdf?raw=true
