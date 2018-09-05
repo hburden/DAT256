@@ -43,7 +43,6 @@ Since a substantial part of the work is conducted in teams, please consider the 
 | TIDAL   | anddahlq@student.chalmers.se   | Andreas Dahlqvist |
 | TIDAL   | hojmark@student.chalmers.se    |André Höjmark |
 | TIDAL   | davolofs@student.chalmers.se   | David Olofsson |
-<!-- | TIDAL   | jesskog@student.chalmers.se    |Jesper Skoglund |-->
 | TIDAL   | weanton@student.chalmers.se    | Anton Wester |
 
 The course evaluation meeting will take place Dec 07 at kl 15.00. Place to be announce later by e-mail.
