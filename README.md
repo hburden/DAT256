@@ -68,7 +68,7 @@ Business Model Canvas:
 - Wikipedia is a good [starting point](https://en.wikipedia.org/wiki/Business_Model_Canvas)-->
 
 Android:
-- The code and docs for Semcon's Android AUTO project are available as a [zip-file](https://drive.google.com/open?id=1NFzNeMOzE3JKJl-jNnktWiuvumyZDgHS) on Google Drive. To install and run, follow the instructions until step 1.3  
+- The code and docs for Semcon's Android AUTO project are available as a [zip-file](https://drive.google.com/open?id=1NFzNeMOzE3JKJl-jNnktWiuvumyZDgHS) on Google Drive  
 - Useful [patterns for Android][AndroidPatterns] applications
 
 ## Schedule
