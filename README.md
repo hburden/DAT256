@@ -1,6 +1,7 @@
 ﻿# Course PM for DAT256 Software Engineering Project 7.5 HEC, Autumn 2018
 
 ## News
+- Sep 10: Thanks to Gustaf there is now a [slack](https://join.slack.com/t/softengproj-cth-gu/shared_invite/enQtNDMyNDE3OTk2ODM3LTVmYTk4NGM1NjJkZTExNzAwZTc5ZTY3NDk4ODNhNDgxMjg0OGMyYWFhODQ1ZjBmY2VjNmJhNTFjOTc1Y2EyOWU) for the course
 
 ## Course description
 The course consists of two phases. The first phase consists of two weeks and is used to introduce the course topics through lectures and exercises. During the first week the students are expected to form a scrum development team. The second phase consists of six-seven weeks and centres around weekly supervision. During this phase the teams work together to develop applications for a specific purpose. Through guest lectures the students are given the opportunity to reflect on how their own work relates to what professional software engineers do and to put their own experiences into a bigger picture. The second phase finishes with a final presentation the week before the examination week. The examination week can then be used to write the final reflection and other relevant documentation needed for signing off. 
