@@ -81,7 +81,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 |        | Sep 03 *10:15-12:00* | Gamma      | [Kata][L2p] & [Template][L2t] | 
 |        | Sep 04 *08:15-12:00* | Jupiter122 | [Lego Exercise][L3] | 
 |        | Sep 05 *10:15-12:00* | Svea219    | [Software Engineering cnt.][L4] | 
-| 02     | Sep 10 *10:15-12:00* | Svea226    | Project Introduction | 
+| 02     | Sep 10 *10:15-12:00* | Svea226    | [Project Introduction][L5] | 
 |        | Sep 11 *10:15-12:00* | Svea219    | [Android CAR][L6] |
 |        | Sep 12 *10:15-12:00* | Gamma      | [MVP Exercise][L7] |
 | 03     | Sep 17 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
@@ -178,7 +178,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L2t]: https://github.com/hburden/DAT256/blob/master/Extras/KataTest.pptx?raw=true
 [L3]: https://github.com/hburden/DAT256/blob/master/Slides/L3-Lego.pdf?raw=true
 [L4]: https://github.com/hburden/DAT256/blob/master/Slides/L4-Conc.pdf?raw=true
-[L5]: https://github.com/hburden/DAT256/blob/master/Slides/L5-SoftwareQuality.pdf?raw=true[L7]: 
+[L5]: https://github.com/hburden/DAT256/blob/master/Slides/L5-Case.pdf?raw=true 
 [L6]: https://github.com/hburden/DAT256/blob/master/Slides/L6-Android.pdf?raw=true
 [L7]: https://github.com/hburden/DAT256/blob/master/Slides/L7-Tasks.pdf?raw=true
 [L8]: https://github.com/hburden/DAT255/blob/master/Slides/L8-Adaptive-Systems.pdf?raw=true
