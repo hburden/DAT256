@@ -90,6 +90,7 @@ The details of the lectures, exercises, workshops and deliverables will be expla
 | 05     | Oct 01 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
 | 06     | Oct 08 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
 | 07     | Oct 15 *10:00-11:45* | Lindholmen Open Arena | Supervision | 
+|        | Oct 16 *10.15-12.00* | Alfa       | Conclusion |
 | 08     | TBD | TBD | Final presentation |
 | 09     | Nov 02 *17:00*       |            | Sign Off | 
 
