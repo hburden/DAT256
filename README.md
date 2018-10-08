@@ -41,7 +41,6 @@ Since a substantial part of the work is conducted in teams, please consider the 
 
 | Program | E-mail | Name | 
 | ------  | ------ | ------ | 
-| TIDAL   | anddahlq@student.chalmers.se   | Andreas Dahlqvist |
 | TIDAL   | hojmark@student.chalmers.se    |André Höjmark |
 | TIDAL   | davolofs@student.chalmers.se   | David Olofsson |
 | TIDAL   | weanton@student.chalmers.se    | Anton Wester |
