@@ -182,7 +182,7 @@ We strive for a transparent and fair assessment strategy. [That is why we as tea
 [L6]: https://github.com/hburden/DAT256/blob/master/Slides/L6-Android.pdf?raw=true
 [L7]: https://github.com/hburden/DAT256/blob/master/Slides/L7-Tasks.pdf?raw=true
 [L8]: https://github.com/hburden/DAT255/blob/master/Slides/L8-Adaptive-Systems.pdf?raw=true
-[L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Conc.pdf?raw=true
+[L9]: https://github.com/hburden/DAT255/blob/master/Slides/L9-Retro.pdf?raw=true
 [L10]: https://github.com/hburden/DAT255/blob/master/Slides/L10-IGDB.pdf?raw=true
 [L11]: https://github.com/hburden/DAT255/blob/master/Slides/L11-CM.pdf?raw=true
 [L12]: https://github.com/hburden/DAT255/blob/master/Slides/L12-Reflections.pdf?raw=true
